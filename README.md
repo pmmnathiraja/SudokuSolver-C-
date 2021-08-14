@@ -24,8 +24,4 @@ ____________________________________________
 g++ -c *.cpp && g++ *.o -o Sudoku.exe
 
 Sudoku.exe input1
-Sudoku.exe input2
-Sudoku.exe input3
-Sudoku.exe input_hex1
-Sudoku.exe input_hex2
-Sudoku.exe input_hex3
+
